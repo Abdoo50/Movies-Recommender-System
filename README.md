@@ -1,7 +1,5 @@
 # Movies Recommender System
 
-![Project Image](./movie-recommender.png)
-
 > A collaborative filtering movie recommender system.
 
 ---
@@ -91,8 +89,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 - GitHub: [Abdoo50](https://github.com/Abdoo50)
-- LinkedIn: [Abdelrahman Ashour](https://www.linkedin.com/in/abdelrahman-ashour/)
-- Email: your@email.com
+- LinkedIn: [Abdelrahman Ashour]([https://www.linkedin.com/in/abdelrahman-ashour/](https://www.linkedin.com/in/abdo-ashour-9467b623a/)https://www.linkedin.com/in/abdo-ashour-9467b623a/)
+- Email: abdoashour4040@gmail.com
 
 ---
 
